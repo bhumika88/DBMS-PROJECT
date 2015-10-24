@@ -1,0 +1,334 @@
+#select
+{
+	background-color : green;
+	font-family: ubuntu condensed;
+	font-size : 25px;
+	font-weight : 700px;
+	color : white;
+	cursor : hand;
+	height : 60px;
+	padding-left: 10px;
+	padding-right: 10px;
+	text-align : center;	
+	border-top-left-radius: 8px;
+
+	border-top-right-radius: 8px;
+
+	border-bottom-left-radius: 8px;
+	border-bottom-right-radius: 8px;
+}
+
+#dropdown
+{
+	
+
+	background-color :  #a30000;
+	font-family: ubuntu condensed;
+	font-size : 25px;
+	font-weight : 700px;
+	color : white;
+	cursor : hand;
+	height : 60px;
+	padding-left: 10px;
+	padding-right: 10px;
+	text-align : center;	
+	border-top-left-radius: 8px;
+
+	border-top-right-radius: 8px;
+
+	border-bottom-left-radius: 8px;
+	border-bottom-right-radius: 8px;
+}
+
+
+
+#header 
+{
+
+
+
+	position : relative;
+
+	top : -10px;
+	margin-left : 0px;
+	margin-right : -10px;
+	height : 400px;
+
+	background-image : url(images/back4.jpg);
+	width:100%;
+	background-repeat: repeat-x;
+	max-width : 100%;
+background-attachment : fixed;
+	
+	
+	
+}
+
+body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+
+
+#link
+{	position : relative;
+	top : 10px;
+	left : 750px;
+	font-weight : 1200px;
+	font-size : 20px;
+	color : white;
+	font-family : ubuntu condensed;
+}
+
+#heading 
+{	font-family : ubuntu condensed;
+	font-weight : 1200px;
+	font-size : 30px;
+	padding-left : 10px;
+}
+
+#heading1 
+{	font-family : ubuntu condensed;
+	font-weight : 1200px;
+	font-size : 45px;
+	padding-left : 10px;
+	text-decoration : underline;
+}
+
+
+
+.inputsmall 
+{
+	
+	width : 370px;
+	height :50px;
+
+	border : 2px #f4f57 solid;
+
+	border-top-left-radius: 5px;
+
+	border-top-right-radius: 5px;
+	
+	border-bottom-left-radius: 5px;
+
+	border-bottom-right-radius: 5px;
+	
+font-family:sans-serif;
+
+        font-size:20px;
+
+ 	resize : none;
+	padding-top : 15px;
+	padding-left : 15px;
+}
+
+#mid
+{
+	 
+	position : absolute;
+	
+	border : 4px black solid;
+	top : 120px;
+	
+	left : 100px;
+	
+	right:100px;
+
+	height : 400px;
+	
+	border-top-left-radius: 10px;
+
+	border-top-right-radius: 10px;
+
+ 	border-bottom-left-radius: 10px;
+
+	border-bottom-right-radius: 10px;
+	background-image : url("images/back14.jpg");
+	background-repeat: no-repeat;
+	
+	background-attachment : fixed;
+
+	background-size : cover;
+	padding-top:30px;
+	padding-bottom:150px;
+	padding-left:100px;
+	
+	padding-right:150px;
+
+	font-size : 30px;
+
+
+}
+
+#mid1
+{
+	 
+	position : absolute;
+	
+	border : 4px black solid;
+	top : 120px;
+	
+	left : 100px;
+	
+	right:100px;
+
+	height : auto;
+	
+	border-top-left-radius: 10px;
+
+	border-top-right-radius: 10px;
+
+ 	border-bottom-left-radius: 10px;
+
+	border-bottom-right-radius: 10px;
+	background-image : url("images/back14.jpg");
+	background-repeat: no-repeat;
+	
+	background-attachment : fixed;
+
+	background-size : cover;
+	padding-top:30px;
+	padding-bottom:150px;
+	padding-left:100px;
+	
+	padding-right:150px;
+
+	font-size : 30px;
+
+
+}
+
+
+.error 
+{
+	color : red;
+	width : 750px;
+	height :50px;
+
+	border : 2px #f4f57 solid;
+
+	border-top-left-radius: 5px;
+
+	border-top-right-radius: 5px;
+	
+	border-bottom-left-radius: 5px;
+
+	border-bottom-right-radius: 5px;
+	
+	font-family:sans-serif;
+
+        font-size:20px;
+
+	overflow : auto;
+
+ 	resize : none;
+	padding-top : 15px;
+	padding-left : 15px;
+}
+
+
+#keyword
+{
+	font-size : 20px;		
+	font-weight : bold;
+	font-family : "ubuntu condensed";
+}
+a:link {
+    color: white;
+    text-decoration: none;
+}
+
+a:visited {
+    color: white;
+    text-decoration: none;
+}
+
+
+a:hover {
+    color: #7cfc00;
+	
+    border-bottom : 2px solid ;
+    padding-bottom : 10px;
+}
+
+/* selected link */
+a:active {
+    color: #7cfc00;
+     border-bottom : 2px solid;
+    padding-bottom : 10px;
+    
+}
+
+
+.slash 
+{
+	color : white;
+	font-size : 20px;	
+}
+#table1
+{
+	border-collapse: separate;
+   
+	border : 4px solid gray;
+}
+
+#heading3
+{
+	font-family : ubuntu condensed;
+	font-weight : 1200px;
+	font-size : 30px;
+	padding-left : 10px;
+	position : absolute;
+	top : 550px;
+	left : 300px;
+}
+
+
+
+#cuisine
+{
+	position : absolute;
+	top :600px;
+	left : 500px;
+}
+
+#submit1
+{
+	position : relative;
+	top : -60px;
+	left : 300px;
+	
+}
+
+.right
+{
+	position : relative;
+	top : 10px;
+	left : 150px;
+	font-weight : 1200px;
+	font-size : 20px;
+	color : white;
+	font-family : ubuntu condensed;
+
+}
+#back
+{
+	background-color : #FFFFCC;
+	font-family: ubuntu condensed;
+	font-size : 25px;
+	font-weight : 700px;
+	left:50px;
+	color : black;
+	cursor : hand;
+	height : 50px;
+	padding-left: 10px;
+	padding-right: 10px;
+	text-align : center;	
+	border-top-left-radius: 8px;
+
+	border-top-right-radius: 8px;
+
+	border-bottom-left-radius: 8px;
+	border-bottom-right-radius: 8px;
+}
